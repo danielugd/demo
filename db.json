@@ -1,7 +1,7 @@
   
 {
   "curp": [
-    { "id": 1, "CURP": "HEHD671118HDFRRN01",
+    { "id": "HEHD671118HDFRRN01",
       "apellido1": "HERNANDEZ",
       "apellido2": "HERRERA",
       "nombres": "DANIEL ALBERTO",
@@ -23,7 +23,7 @@
       "cveEntidadEmisora": "",
       "statusCurp": ""
     },
-    { "id": 2, "CURP": "OAJR910830HMCSRB07",
+    { "id": "OAJR910830HMCSRB07",
       "apellido1": "OSNAYA",
       "apellido2": "JUAREZ",
       "nombres": "ROBERTO EDWIN",
@@ -45,7 +45,7 @@
       "cveEntidadEmisora": "",
       "statusCurp": ""
     },
-    { "id": 3,       "CURP": "ROVH840509HJCSZC08",
+    { "id": "ROVH840509HJCSZC08",
       "apellido1": "ROSAS",
       "apellido2": "VAZQUEZ",
       "nombres": "HECTOR RICARDO",
