@@ -72,7 +72,7 @@
     }
   ],
   "acta": [
-    { "id": 1, "curp": "HEHD671118HDFRRN01",
+    { "id": "HEHD671118HDFRRN01",
       "primerApellido": "HERNANDEZ",
       "segundoApellido": "HERRERA",
       "nombre": "DANIEL ALBERTO",
@@ -121,7 +121,7 @@
       "MsgError": "",
       "parametrosEnviados": ""
     },
-    { "id": 2, "curp": "OAJR910830HMCSRB07",
+    { "id": "OAJR910830HMCSRB07",
       "primerApellido": "OSNAYA",
       "segundoApellido": "JUAREZ",
       "nombre": "ROEBRTO EDWIN",
@@ -170,7 +170,7 @@
       "MsgError": "",
       "parametrosEnviados": ""
     },
-    { "id": 2,  "curp": "ROVH840509HJCSZC08",
+    { "id": "ROVH840509HJCSZC08",
       "primerApellido": "ROSAS",
       "segundoApellido": "VAZQUEZ",
       "nombre": "HECTOR RICARDO",
