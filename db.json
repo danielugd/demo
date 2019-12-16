@@ -1,8 +1,27 @@
 {
   "curp": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+	{	  "CURP": "HEHD671118HDFRRN01",  
+		  "apellido1": "HERNANDEZ", 
+		  "apellido2": "HERRERA", 
+		  "nombres": "DANIEL ALBERTO",
+		  "sexo": "HOMBRE", 
+		  "fechNac": "18/11/1967", 
+		  "nacionalidad": "MEXICO",
+		  "docProbatorio": "Acta de nacimiento",
+		  "anioReg": 1968,
+		  "foja": "",
+		  "tomo": "",
+		  "libro": "",
+		  "numActa": "00069",
+		  "CRIP": "",
+		  "numEntidadReg": "09",
+		  "cveMunicipioReg": "017",
+		  "NumRegExtranjeros": "",
+		  "FolioCarta": "",
+		  "cveEntidadNac": "DISTRITO FEDERAL",
+		  "cveEntidadEmisora": "",
+		  "statusCurp": ""
+	 },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
