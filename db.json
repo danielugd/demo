@@ -1,6 +1,8 @@
+  
 {
   "curp": [
-    { "id": 2, "title": "Hernandez" },
+    { "id": 1, "title": "Post" },
+    { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
