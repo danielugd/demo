@@ -1,7 +1,6 @@
 {
   "curp": [
-    { "id": 1, "apellido1": "HERNANDEZ", },
-    { "id": 2, "title": "Post 2" },
+    { "id": 2, "title": "Hernandez" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
