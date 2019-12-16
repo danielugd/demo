@@ -220,7 +220,45 @@
       "parametrosEnviados": ""
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+   "cedula": [
+    {
+      "id": "HEHD671118HDFRRN01",
+      "cedula": 4204941,
+      "nombre": "DANIEL ALBERTO",
+      "primer_apellido": "HERNÁNDEZ",
+      "segundo_apellido": "HERRERA",
+      "genero": "HOMBRE",
+      "profesion": "LICENCIATURA EN INFORMÁTICA",
+      "fecha_expedicion": 2004,
+      "fecha_examen": "",
+      "institucion": "ACUERDOS SECRETARIALES 286, 328 Y 357 DE LA S.E.P.",
+      "tipo": "C1"
+    },
+    {
+      "id": "OAJR910830HMCSRB07",
+      "cedula": 10140911,
+      "nombre": "ROBERTO EDWIN",
+      "primer_apellido": "OSNAYA",
+      "segundo_apellido": "JUAREZ",
+      "genero": "HOMBRE",
+      "profesion": "LICENCIATURA EN MATEMÁTICAS APLICADAS Y COMPUTACIÓN",
+      "fecha_expedicion": 2016,
+      "fecha_examen": "",
+      "institucion": "UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO",
+      "tipo": "C1"
+    },
+    {
+      "id": "ROVH840509HJCSZC08",
+      "cedula": 11123170,
+      "nombre": "HECTOR RICARDO",
+      "primer_apellido": "ROSAS",
+      "segundo_apellido": "VAZQUEZ",
+      "genero": "HOMBRE",
+      "profesion": "LICENCIATURA EN MERCADOTECNIA",
+      "fecha_expedicion": 2018,
+      "fecha_examen": "",
+      "institucion": "UNIVERSIDAD TECNOLÓGICA LATINOAMERICANA EN LÍNEA",
+      "tipo": "C1"
+    }
+  ]
 }
